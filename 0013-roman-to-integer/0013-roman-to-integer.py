@@ -19,4 +19,3 @@ class Solution:
                 ans += m[s[i]]
         
         return ans
-        
